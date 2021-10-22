@@ -24,3 +24,5 @@ pyaudio
 playsounf
 
 smtplib
+
+![alt text](https://github.com/NamanChandra1/Interactive-Chatbot-cum-Assistant-Axel/blob/main/Example.jpeg)
